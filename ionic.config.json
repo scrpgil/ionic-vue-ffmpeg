@@ -1,0 +1,7 @@
+{
+  "name": "ionic-vue-ffmpeg",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}

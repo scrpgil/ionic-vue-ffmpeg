@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "ionic-vue-ffmpeg",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
